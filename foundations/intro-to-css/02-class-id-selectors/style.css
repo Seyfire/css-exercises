@@ -3,3 +3,22 @@
 * **The third element**: in addition to the styles for all odd numbered elements, add a font size of 24px
 * **The fourth element**: a light green background, a font size of 24px, and bold */
 
+.odd {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    background-color: #ff96c2fd;
+}
+
+.loud {
+    font-size: 24px;
+}
+
+#water {
+    color: blue;
+    font-size: 36px;
+}
+
+#grass {
+    background-color: #9eff9e;
+    font-size: 24px;
+    font-weight: bold;
+}
